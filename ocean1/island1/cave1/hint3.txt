@@ -4,7 +4,7 @@
 
 "cd"コマンドで移動しましょう。
 
-今、あなたはocean1の中のcave1にいます。
+今、あなたはocean1の中のisland1の中のcave1にいます。
 
 ocean1
 ├── island1
