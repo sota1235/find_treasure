@@ -13,13 +13,12 @@ Linux初心者向けに基本的なコマンドを理解してもらうための
 
 ### Usage
 
-手元にCloneし、スタートしてください。
-
-### Install
+手元にCloneし、フォルダに移動してスタートしてください。
 
 ```
-git clone hoge
+git clone https://github.com/sota1235/find_treasure.git
 cd find_treasure
+cat start_tour.txt
 ```
 
 ## Author
